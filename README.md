@@ -1,1 +1,1 @@
-# logocontrol
+# logoremotecontrol

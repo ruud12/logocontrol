@@ -1,0 +1,7 @@
+base   logocontrol
+author Ruud Habing
+email  ruud at habing dot net
+date   2018-04-28
+name   logocontrol plugin
+desc   remote control and data visualization of siemens LOGO!8
+url    http://www.ruudhabing.nl/logo_control
